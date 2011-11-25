@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.cs
+!*.csproj
+!*.sln
+!Logger
+!Examples
+!README
+!UNLICENSE
