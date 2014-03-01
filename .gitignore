@@ -3,6 +3,7 @@
 !*.cs
 !*.csproj
 !*.sln
+!*.StyleCop
 !Logger
 !Examples
 !README.md
