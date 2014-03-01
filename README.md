@@ -1,4 +1,4 @@
-#Logger
+# logger
 
 This C# logger provides a simple logging mechanism, intended to be just
 slightly more useful than a generic standard output or file logging mechanism.
